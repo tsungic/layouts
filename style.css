@@ -1,0 +1,26 @@
+.one {
+    background-color: grey;
+    height: 60px;
+    margin: 10px 20px 30px;
+  }
+
+
+.two {
+      background-color: grey;
+      column-count: 3;
+      column-gap: 10px;
+      column-rule: 10px solid white ;
+      margin: 10px 20px 30px;
+ 
+  }
+
+
+
+.three {
+  background-color: grey;
+  height: 25px;
+  margin: 10px 20px 30px;
+  
+
+    
+}

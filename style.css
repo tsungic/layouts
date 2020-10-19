@@ -1,26 +1,46 @@
-.one {
+* {
+  margin: 30px;
+  
+}
+
+
+.px {
     background-color: grey;
     height: 60px;
-    margin: 10px 20px 30px;
+  
   }
 
 
-.two {
+.vw {
       background-color: grey;
       column-count: 3;
+      width: 85vw;
       column-gap: 10px;
-      column-rule: 10px solid white ;
-      margin: 10px 20px 30px;
+      column-rule: 10px solid white;
  
   }
 
 
-
-.three {
+.percent {
   background-color: grey;
-  height: 25px;
-  margin: 10px 20px 30px;
-  
-
-    
+  height: 100%;
+  font-size: 90%;
+  padding: 2%;
 }
+
+      
+.vh {
+  background-color: grey;
+  height: 10vw;
+}
+
+.rem {
+  background-color: grey;
+  font-size: 1.5rem;
+}
+
+.em {
+  background-color: grey;
+  font-size: 2rem;
+}
+
